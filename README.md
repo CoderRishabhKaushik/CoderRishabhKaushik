@@ -19,7 +19,6 @@ Hi there! 👋 I'm Rishabh Kaushik, a passionate front-end developer based in Gh
 [![](https://visitcount.itsvg.in/api?id=CoderRishabhKaushik&icon=7&color=12)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/rkaushik25u) 
-
+<a href="https://www.buymeacoffee.com/rkaushik25u"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rkaushik25u&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
