@@ -1,7 +1,7 @@
 💫 **About Me**:<br><br>
-Hi there! 👋 I'm Rishabh Kaushik, a passionate front-end developer based in Ghaziabad,India. I recently completed my MCA, and I'm thrilled to be on the journey of transforming ideas into interactive and user-friendly web applications.<br><br>## 🚀 Quick Overview<br><br>- 🔭 I'm currently a React.js Developer at Indian Robotic Solution Pvt Ltd., where I am gaining hands-on experience through a rewarding on-site paid internship.<br>- 🌱 I have a strong foundation in HTML, CSS, and JavaScript, and I love building dynamic user interfaces with React.js and Next.js.<br>- 💻 Besides, I'm familiar with CSS frameworks like Tailwind CSS and Material UI, enhancing the visual appeal of my projects.<br><br> <br><br>Feel free to explore my repositories, and don't hesitate to reach out for collaboration or just a friendly chat. Happy coding! 🚀<br>
+Hi there! 👋 I'm Rishabh Kaushik, a passionate front-end developer based in Ghaziabad,India. I recently completed my MCA, and I'm thrilled to be on the journey of transforming ideas into interactive and user-friendly web applications.<br><br>## 🚀 Quick Overview<br><br>- 🔭 I'm currently a React.js Developer at Indian Robotic Solution Pvt Ltd., where I am gaining hands-on experience through a rewarding on-site paid internship.<br>- 🌱 I have a strong foundation in HTML, CSS, and JavaScript, and I love building dynamic user interfaces with React.js and Next.js.<br>- 💻 Besides, I'm familiar with CSS frameworks like Tailwind CSS and Material UI, enhancing the visual appeal of my projects.<br><br>Feel free to explore my repositories, and don't hesitate to reach out for collaboration or just a friendly chat. Happy coding! 🚀<br>
 
-🌐 Socials:<br> <br>
+🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/coder-rishabh-kaushik/) 
 
 **💻 Tech Stack:**
